@@ -1,0 +1,12 @@
+D:\Setup\程序安装\程序安装\bin\Debug\程序安装.exe.config
+D:\Setup\程序安装\程序安装\bin\Debug\程序安装.exe
+D:\Setup\程序安装\程序安装\bin\Debug\程序安装.pdb
+D:\Setup\程序安装\程序安装\bin\Debug\System.Net.Http.dll
+D:\Setup\程序安装\程序安装\bin\Debug\System.Net.Http.xml
+D:\Setup\程序安装\程序安装\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\Setup\程序安装\程序安装\obj\Debug\程序安装.csprojResolveAssemblyReference.cache
+D:\Setup\程序安装\程序安装\obj\Debug\程序安装.Form1.resources
+D:\Setup\程序安装\程序安装\obj\Debug\程序安装.Properties.Resources.resources
+D:\Setup\程序安装\程序安装\obj\Debug\程序安装.csproj.GenerateResource.Cache
+D:\Setup\程序安装\程序安装\obj\Debug\程序安装.exe
+D:\Setup\程序安装\程序安装\obj\Debug\程序安装.pdb
